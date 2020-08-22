@@ -21,7 +21,7 @@ public class CircularLinkedList {
 	public void print(){
 		Node current = head;
 		if(current == null){
-			System.out.println("List is empty...1");
+			System.out.println("List is empty...12");
 		}else {
 
 			do{
